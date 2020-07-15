@@ -44,4 +44,4 @@ Any other relevant tags which may be applied.
 ### Contact Me
 If you want to know more about the project,
 or to contact with any bugs / suggestions
-please contact me on twitter @SirScrubbington :)
+please contact me on twitter [here](https://twitter.com/SirScrubbington) :)
