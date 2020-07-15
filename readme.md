@@ -20,6 +20,19 @@ Nature 1 / Nature 2 / ... nature
 - Move 1 / Move 2 / ...
 - Move 1 / Move 2 / ...
 
+### Sample Files
+Inside the /in directory, I've placed the 
+resource files which are currently being used
+on my own private Pokemon Showdown! server for
+my VGC Battle Factory format(s). This is also
+the official repository for these files. Please
+feel free to push changes to this repository 
+which add new sets you would like to see in 
+the server and I will review them :) 
+
+#### VGC Factory Server
+The VGC Factory Server is located [here](https://brisbanebuzzwoles.psim.us).
+
 ### Future Features
 In future, I would like to make 
 allowances for the following tags:
