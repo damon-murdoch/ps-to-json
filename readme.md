@@ -38,8 +38,15 @@ In future, I would like to make
 allowances for the following tags:
 Shiny: True/False
 Level: 1-100
-
 Any other relevant tags which may be applied.
+
+### Credits
+VGC Factory Sets have been sourced, in no particular order from:
+* Smogon Usage Stats ([link](https://smogon.com/stats))
+* Dawoblefet's VGC Room Tour Sample Teams ([link](https://pastebin.com/rhFBBMMB))
+* Nugget Bridge VGC Team Reports ([link](https://nuggetbridge.com))
+* Trainer Tower Sample Sets / Team Reports ([link](https://trainertower.com))
+* My Personal Blog ([link](https://sir-scrubbington.hatenablog.com))
 
 ### Contact Me
 If you want to know more about the project,
