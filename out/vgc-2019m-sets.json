@@ -1,0 +1,916 @@
+{
+    "hooh": [
+        {
+            "item": [
+                "safety goggles"
+            ],
+            "ability": [
+                "pressure"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "atk": "156",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "100"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "tailwind"
+                ],
+                [
+                    "recover"
+                ],
+                [
+                    "sacred fire"
+                ],
+                [
+                    "brave bird"
+                ]
+            ]
+        }
+    ],
+    "xerneas": [
+        {
+            "item": [
+                "power herb"
+            ],
+            "ability": [
+                "fairy aura"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "212",
+                    "spd": "36",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "geomancy"
+                ],
+                [
+                    "moonblast"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "power herb"
+            ],
+            "ability": [
+                "fairy aura"
+            ],
+            "evs": [
+                {
+                    "hp": "68",
+                    "spa": "252",
+                    "spe": "188"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "moonblast"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "geomancy"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "kyogre": [
+        {
+            "item": [
+                "choice scarf"
+            ],
+            "ability": [
+                "drizzle"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "water spout"
+                ],
+                [
+                    "thunder"
+                ],
+                [
+                    "scald"
+                ],
+                [
+                    "ice beam"
+                ]
+            ]
+        }
+    ],
+    "lunala": [
+        {
+            "item": [
+                "lunalium z"
+            ],
+            "ability": [
+                "shadow shield"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "4",
+                    "spa": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "quiet"
+            ],
+            "moves": [
+                [
+                    "moongeist beam"
+                ],
+                [
+                    "psyshock"
+                ],
+                [
+                    "trick room"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lunalium z"
+            ],
+            "ability": [
+                "shadow shield"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "moongeist beam"
+                ],
+                [
+                    "psyshock"
+                ],
+                [
+                    "psych up"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lunalium z"
+            ],
+            "ability": [
+                "shadow shield"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "4",
+                    "spa": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "quiet"
+            ],
+            "moves": [
+                [
+                    "moongeist beam"
+                ],
+                [
+                    "psyshock"
+                ],
+                [
+                    "trick room"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "groudon": [
+        {
+            "item": [
+                "choice band"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "156",
+                    "spd": "100"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "precipice blades"
+                ],
+                [
+                    "stomping tantrum"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "fire punch"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "aguav berry"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "atk": "12",
+                    "def": "4",
+                    "spd": "212",
+                    "spe": "36"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "precipice blades"
+                ],
+                [
+                    "protect"
+                ],
+                [
+                    "swords dance"
+                ],
+                [
+                    "rock tomb"
+                ]
+            ]
+        }
+    ],
+    "ferrothorn(m)": [
+        {
+            "item": [
+                "assault vest"
+            ],
+            "ability": [
+                "iron barbs"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "76",
+                    "def": "36",
+                    "spa": "4",
+                    "spd": "140"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "power whip"
+                ],
+                [
+                    "gyro ball"
+                ],
+                [
+                    "knock off"
+                ],
+                [
+                    "acid spray"
+                ]
+            ]
+        }
+    ],
+    "raichu(f)": [
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "lightning rod"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "volt switch"
+                ],
+                [
+                    "encore"
+                ],
+                [
+                    "nuzzle"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        }
+    ],
+    "ludicolo(m)": [
+        {
+            "item": [
+                "waterium z"
+            ],
+            "ability": [
+                "swift swim"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "hydro pump"
+                ],
+                [
+                    "grass knot"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        }
+    ],
+    "incineroar": [
+        {
+            "item": [
+                "figy",
+                "aguav berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "4",
+                    "def": "84",
+                    "spd": "100",
+                    "spe": "68"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "flare blitz"
+                ],
+                [
+                    "snarl"
+                ],
+                [
+                    "u-turn"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "figy",
+                "aguav berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "236",
+                    "def": "36",
+                    "spd": "236"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "fake out"
+                ],
+                [
+                    "flare blitz"
+                ],
+                [
+                    "snarl"
+                ],
+                [
+                    "u-turn"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "figy",
+                "aguav berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "4",
+                    "def": "4",
+                    "spd": "236",
+                    "spe": "12"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "flare blitz"
+                ],
+                [
+                    "u-turn"
+                ],
+                [
+                    "fake out"
+                ],
+                [
+                    "throat chop"
+                ]
+            ]
+        }
+    ],
+    "tapufini": [
+        {
+            "item": [
+                "iapapa berry"
+            ],
+            "ability": [
+                "misty surge"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "76",
+                    "spd": "180"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "gravity"
+                ],
+                [
+                    "heal pulse"
+                ],
+                [
+                    "nature's madness"
+                ],
+                [
+                    "haze"
+                ]
+            ]
+        }
+    ],
+    "tsareena": [
+        {
+            "item": [
+                "iapapa berry"
+            ],
+            "ability": [
+                "queenly majesty"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "44",
+                    "spd": "212"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "u-turn"
+                ],
+                [
+                    "power whip"
+                ],
+                [
+                    "feint"
+                ],
+                [
+                    "helping hand"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "aguav berry"
+            ],
+            "ability": [
+                "queenly majesty"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "def": "44",
+                    "spd": "220"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "power whip"
+                ],
+                [
+                    "high jump kick"
+                ],
+                [
+                    "feint"
+                ],
+                [
+                    "u-turn"
+                ]
+            ]
+        }
+    ],
+    "stakataka": [
+        {
+            "item": [
+                "figy berry"
+            ],
+            "ability": [
+                "beast boost"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "12",
+                    "spd": "244"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "gyro ball"
+                ],
+                [
+                    "trick room"
+                ],
+                [
+                    "protect"
+                ],
+                [
+                    "rock slide"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "safety goggles"
+            ],
+            "ability": [
+                "beast boost"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "4",
+                    "spd": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "rock slide"
+                ],
+                [
+                    "gyro ball"
+                ],
+                [
+                    "trick room"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "tapukoko": [
+        {
+            "item": [
+                "choice scarf"
+            ],
+            "ability": [
+                "electric surge"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "thunderbolt"
+                ],
+                [
+                    "volt switch"
+                ],
+                [
+                    "discharge"
+                ],
+                [
+                    "dazzling gleam"
+                ]
+            ]
+        }
+    ],
+    "amoonguss": [
+        {
+            "item": [
+                "rocky helmet"
+            ],
+            "ability": [
+                "regenerator"
+            ],
+            "evs": [
+                {
+                    "hp": "140",
+                    "def": "124",
+                    "spd": "244"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "grass knot"
+                ],
+                [
+                    "clear smog"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "spore"
+                ]
+            ]
+        }
+    ],
+    "volcarona": [
+        {
+            "item": [
+                "firium z"
+            ],
+            "ability": [
+                "flame body"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "overheat"
+                ],
+                [
+                    "tailwind"
+                ],
+                [
+                    "whirlwind"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "smeargle": [
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "moody"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "lovely kiss"
+                ],
+                [
+                    "follow me"
+                ],
+                [
+                    "wide guard"
+                ],
+                [
+                    "crafty shield"
+                ]
+            ]
+        }
+    ]
+}

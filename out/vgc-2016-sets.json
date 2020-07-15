@@ -1,0 +1,3478 @@
+{
+    "xerneas": [
+        {
+            "item": [
+                "power herb"
+            ],
+            "ability": [
+                "fairy aura"
+            ],
+            "evs": [
+                {
+                    "hp": "140",
+                    "def": "236",
+                    "spa": "60",
+                    "spd": "4",
+                    "spe": "68"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "bold"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "geomancy"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "moonblast"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "power herb"
+            ],
+            "ability": [
+                "fairy aura"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "36",
+                    "spa": "36",
+                    "spd": "108",
+                    "spe": "76"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "geomancy"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "moonblast"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "power herb"
+            ],
+            "ability": [
+                "fairy aura"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest",
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "geomancy"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "moonblast"
+                ]
+            ]
+        }
+    ],
+    "groudon": [
+        {
+            "item": [
+                "red orb"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "hp": "108",
+                    "atk": "84",
+                    "def": "12",
+                    "spa": "108",
+                    "spd": "156",
+                    "spe": "36"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "lonely"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "precipice blades"
+                ],
+                [
+                    "earth power"
+                ],
+                [
+                    "eruption"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "red orb"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "92",
+                    "def": "4",
+                    "spd": "60",
+                    "spe": "100"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "swords dance",
+                    "dragon claw",
+                    "substitute"
+                ],
+                [
+                    "precipice blades"
+                ],
+                [
+                    "fire punch"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "red orb"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "hp": "32",
+                    "atk": "252",
+                    "def": "220"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "swords dance",
+                    "dragon claw",
+                    "substitute",
+                    "eruption"
+                ],
+                [
+                    "precipice blades"
+                ],
+                [
+                    "fire punch"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "red orb"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "swords dance",
+                    "dragon claw",
+                    "substitute",
+                    "eruption"
+                ],
+                [
+                    "precipice blades"
+                ],
+                [
+                    "fire punch"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "red orb"
+            ],
+            "ability": [
+                "drought"
+            ],
+            "evs": [
+                {
+                    "spa": "252",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "def": "30"
+                }
+            ],
+            "nature": [
+                "timid",
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "eruption"
+                ],
+                [
+                    "earth power"
+                ],
+                [
+                    "hidden power ice"
+                ]
+            ]
+        }
+    ],
+    "salamence": [
+        {
+            "item": [
+                "salamencite"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "atk": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "naive",
+                "hasty"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "double-edge"
+                ],
+                [
+                    "hyper voice"
+                ],
+                [
+                    "draco meteor",
+                    "flamethrower",
+                    "fire blast",
+                    "tailwind",
+                    "substitute"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "salamencite"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "76",
+                    "spa": "172",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "hasty"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "double-edge"
+                ],
+                [
+                    "hyper voice"
+                ],
+                [
+                    "draco meteor",
+                    "flamethrower",
+                    "fire blast",
+                    "tailwind",
+                    "substitute"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "salamencite"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "atk": "116",
+                    "spa": "116",
+                    "spd": "188",
+                    "spe": "88"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "hasty"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "double-edge"
+                ],
+                [
+                    "hyper voice"
+                ],
+                [
+                    "draco meteor",
+                    "flamethrower",
+                    "fire blast",
+                    "tailwind",
+                    "substitute"
+                ]
+            ]
+        }
+    ],
+    "smeargle": [
+        {
+            "item": [
+                "chesto berry",
+                "focus sash"
+            ],
+            "ability": [
+                "moody"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "196",
+                    "spd": "60"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "9"
+                }
+            ],
+            "nature": [
+                "bold"
+            ],
+            "moves": [
+                [
+                    "spiky shield"
+                ],
+                [
+                    "crafty shield"
+                ],
+                [
+                    "follow me",
+                    "wide guard"
+                ],
+                [
+                    "dark void"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "chesto berry",
+                "focus sash"
+            ],
+            "ability": [
+                "moody"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "196",
+                    "spd": "60"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "29"
+                }
+            ],
+            "nature": [
+                "relaxed"
+            ],
+            "moves": [
+                [
+                    "spiky shield"
+                ],
+                [
+                    "crafty shield"
+                ],
+                [
+                    "fake out"
+                ],
+                [
+                    "dark void"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "chesto berry",
+                "focus sash"
+            ],
+            "ability": [
+                "moody"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "spiky shield"
+                ],
+                [
+                    "dark void"
+                ],
+                [
+                    "follow me"
+                ],
+                [
+                    "wide guard",
+                    "transform",
+                    "crafty shield"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "chesto berry",
+                "focus sash"
+            ],
+            "ability": [
+                "moody"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "spiky shield"
+                ],
+                [
+                    "dark void"
+                ],
+                [
+                    "follow me"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        }
+    ],
+    "cresselia": [
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "52",
+                    "def": "4",
+                    "spa": "252",
+                    "spd": "4",
+                    "spe": "196"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "trick room"
+                ],
+                [
+                    "skill swap",
+                    "gravity"
+                ],
+                [
+                    "icy wind",
+                    "ice beam"
+                ],
+                [
+                    "psychic"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "20",
+                    "def": "4",
+                    "spa": "252",
+                    "spd": "4",
+                    "spe": "228"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "trick room"
+                ],
+                [
+                    "skill swap",
+                    "gravity"
+                ],
+                [
+                    "icy wind",
+                    "ice beam"
+                ],
+                [
+                    "psychic"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "16",
+                    "def": "212",
+                    "spa": "116",
+                    "spd": "164"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "trick room"
+                ],
+                [
+                    "skill swap",
+                    "gravity"
+                ],
+                [
+                    "icy wind",
+                    "ice beam"
+                ],
+                [
+                    "psychic"
+                ]
+            ]
+        }
+    ],
+    "bronzong": [
+        {
+            "item": [
+                "lum berry",
+                "mental herb"
+            ],
+            "ability": [
+                "heatproof"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "188",
+                    "spd": "68"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "relaxed"
+            ],
+            "moves": [
+                [
+                    "gyro ball"
+                ],
+                [
+                    "gravity"
+                ],
+                [
+                    "hypnosis"
+                ],
+                [
+                    "trick room"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry",
+                "mental herb"
+            ],
+            "ability": [
+                "heatproof"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "60",
+                    "spd": "196"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "gyro ball"
+                ],
+                [
+                    "gravity"
+                ],
+                [
+                    "hypnosis"
+                ],
+                [
+                    "trick room"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry",
+                "mental herb"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "188",
+                    "spd": "68"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "relaxed"
+            ],
+            "moves": [
+                [
+                    "gyro ball"
+                ],
+                [
+                    "safeguard"
+                ],
+                [
+                    "skill swap"
+                ],
+                [
+                    "trick room"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry",
+                "mental herb"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "60",
+                    "spd": "196"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "gyro ball"
+                ],
+                [
+                    "safeguard"
+                ],
+                [
+                    "skill swap"
+                ],
+                [
+                    "trick room"
+                ]
+            ]
+        }
+    ],
+    "kangaskhan": [
+        {
+            "item": [
+                "kangaskhanite"
+            ],
+            "ability": [
+                "scrappy",
+                "inner focus"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "double-edge",
+                    "return"
+                ],
+                [
+                    "power-up punch",
+                    "low kick"
+                ],
+                [
+                    "sucker punch",
+                    "crunch",
+                    "safeguard",
+                    "roar"
+                ],
+                [
+                    "fake out",
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "kyogre": [
+        {
+            "item": [
+                "blue orb"
+            ],
+            "ability": [
+                "drizzle"
+            ],
+            "evs": [
+                {
+                    "hp": "180",
+                    "def": "228",
+                    "spa": "84",
+                    "spd": "12",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "origin pulse",
+                    "scald"
+                ],
+                [
+                    "water spout",
+                    "thunder"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "blue orb"
+            ],
+            "ability": [
+                "drizzle"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "236",
+                    "spa": "4",
+                    "spd": "4",
+                    "spe": "12"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "origin pulse",
+                    "scald"
+                ],
+                [
+                    "water spout",
+                    "thunder"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "blue orb"
+            ],
+            "ability": [
+                "drizzle"
+            ],
+            "evs": [
+                {
+                    "hp": "204",
+                    "def": "204",
+                    "spa": "44",
+                    "spd": "4",
+                    "spe": "52"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "water spout"
+                ],
+                [
+                    "origin pulse"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "blue orb"
+            ],
+            "ability": [
+                "drizzle"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "modest",
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "origin pulse",
+                    "scald"
+                ],
+                [
+                    "water spout",
+                    "thunder"
+                ]
+            ]
+        }
+    ],
+    "rayquaza": [
+        {
+            "item": [
+                "life orb",
+                "focus sash"
+            ],
+            "ability": [
+                "air lock"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "swords dance",
+                    "dragon dance"
+                ],
+                [
+                    "dragon ascent"
+                ],
+                [
+                    "extreme speed"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "assault vest"
+            ],
+            "ability": [
+                "air lock"
+            ],
+            "evs": [
+                {
+                    "hp": "204",
+                    "atk": "4",
+                    "def": "4",
+                    "spd": "196",
+                    "spe": "100"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "dragon ascent"
+                ],
+                [
+                    "extreme speed"
+                ],
+                [
+                    "waterfall"
+                ],
+                [
+                    "overheat"
+                ]
+            ]
+        }
+    ],
+    "talonflame": [
+        {
+            "item": [
+                "life orb",
+                "chesto berry"
+            ],
+            "ability": [
+                "gale wings"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "quick guard",
+                    "taunt",
+                    "protect"
+                ],
+                [
+                    "tailwind"
+                ],
+                [
+                    "brave bird"
+                ],
+                [
+                    "flare blitz"
+                ]
+            ]
+        }
+    ],
+    "gengar": [
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "spa": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "disable",
+                    "substitute"
+                ],
+                [
+                    "shadow ball"
+                ],
+                [
+                    "sludge bomb",
+                    "perish song"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "spa": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "def": "30"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "disable",
+                    "substitute"
+                ],
+                [
+                    "hidden power ice"
+                ],
+                [
+                    "sludge bomb"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "spa": "8",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "def": "30",
+                    "spa": "30"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "disable",
+                    "substitute"
+                ],
+                [
+                    "hidden power water"
+                ],
+                [
+                    "sludge bomb"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "disable",
+                    "substitute"
+                ],
+                [
+                    "shadow ball"
+                ],
+                [
+                    "sludge bomb"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "def": "30"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "disable",
+                    "substitute"
+                ],
+                [
+                    "hidden power ice"
+                ],
+                [
+                    "sludge bomb"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "8",
+                    "spa": "248",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "def": "30",
+                    "spa": "30"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "disable",
+                    "substitute"
+                ],
+                [
+                    "hidden power water"
+                ],
+                [
+                    "sludge bomb"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "gengarite"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "92",
+                    "def": "20",
+                    "spa": "172",
+                    "spd": "4",
+                    "spe": "220"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "sludge bomb"
+                ],
+                [
+                    "will-o-wisp"
+                ],
+                [
+                    "taunt"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "will-o-wisp",
+                    "skill swap"
+                ],
+                [
+                    "taunt"
+                ],
+                [
+                    "sludge bomb"
+                ],
+                [
+                    "shadow ball",
+                    "icy wind"
+                ]
+            ]
+        }
+    ],
+    "hitmontop": [
+        {
+            "item": [
+                "eject button",
+                "mental herb"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "132",
+                    "def": "76",
+                    "spd": "44",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "wide guard"
+                ],
+                [
+                    "close combat"
+                ],
+                [
+                    "feint",
+                    "helping hand"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "eject button",
+                "mental herb"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "44",
+                    "def": "164",
+                    "spd": "44",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "wide guard"
+                ],
+                [
+                    "close combat"
+                ],
+                [
+                    "feint",
+                    "helping hand"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "eject button"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "132",
+                    "def": "76",
+                    "spd": "44",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "close combat"
+                ],
+                [
+                    "fake out"
+                ],
+                [
+                    "feint"
+                ],
+                [
+                    "wide guard"
+                ]
+            ]
+        }
+    ],
+    "raichu": [
+        {
+            "item": [
+                "assault vest"
+            ],
+            "ability": [
+                "lightning rod"
+            ],
+            "evs": [
+                {
+                    "def": "180",
+                    "spa": "40",
+                    "spd": "108",
+                    "spe": "180"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "volt switch"
+                ],
+                [
+                    "volt tackle"
+                ],
+                [
+                    "nuzzle",
+                    "endeavor",
+                    "feint"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "assault vest"
+            ],
+            "ability": [
+                "lightning rod"
+            ],
+            "evs": [
+                {
+                    "hp": "36",
+                    "def": "204",
+                    "spa": "12",
+                    "spd": "68",
+                    "spe": "188"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "volt switch"
+                ],
+                [
+                    "fake out"
+                ],
+                [
+                    "nuzzle"
+                ],
+                [
+                    "endeavor"
+                ]
+            ]
+        }
+    ],
+    "thundurus": [
+        {
+            "item": [
+                "sitrus berry",
+                "lum berry",
+                "focus sash",
+                "life orb"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "hidden power ice"
+                ],
+                [
+                    "thunderbolt"
+                ],
+                [
+                    "thunder wave"
+                ],
+                [
+                    "taunt"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry",
+                "lum berry",
+                "chesto berry"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "116",
+                    "spa": "72",
+                    "spe": "68"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "calm"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "hidden power ice"
+                ],
+                [
+                    "thunderbolt"
+                ],
+                [
+                    "thunder wave"
+                ],
+                [
+                    "taunt",
+                    "swagger"
+                ]
+            ]
+        }
+    ],
+    "jumpluff": [
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "chlorophyll"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "76",
+                    "spe": "180"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "sleep powder"
+                ],
+                [
+                    "helping hand"
+                ]
+            ]
+        }
+    ],
+    "whimsicott": [
+        {
+            "item": [
+                "focus sash",
+                "mental herb"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "encore"
+                ],
+                [
+                    "tailwind"
+                ],
+                [
+                    "taunt",
+                    "moonblast",
+                    "safeguard",
+                    "fake tears"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "life orb"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "encore"
+                ],
+                [
+                    "tailwind"
+                ],
+                [
+                    "moonblast"
+                ],
+                [
+                    "grass knot"
+                ]
+            ]
+        }
+    ],
+    "crobat": [
+        {
+            "item": [
+                "mental herb",
+                "lum berry",
+                "sitrus berry"
+            ],
+            "ability": [
+                "inner focus"
+            ],
+            "evs": [
+                {
+                    "hp": "20",
+                    "def": "236",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "super fang"
+                ],
+                [
+                    "tailwind"
+                ],
+                [
+                    "taunt"
+                ],
+                [
+                    "quick guard",
+                    "haze"
+                ]
+            ]
+        }
+    ],
+    "volcarona": [
+        {
+            "item": [
+                "leftovers",
+                "lum berry",
+                "sitrus berry"
+            ],
+            "ability": [
+                "flame body"
+            ],
+            "evs": [
+                {
+                    "hp": "200",
+                    "def": "4",
+                    "spa": "252",
+                    "spe": "52"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "flamethrower",
+                    "fiery dance",
+                    "overheat",
+                    "heat wave"
+                ],
+                [
+                    "whirlwind",
+                    "giga drain",
+                    "bug buzz"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "leftovers",
+                "lum berry",
+                "sitrus berry"
+            ],
+            "ability": [
+                "flame body"
+            ],
+            "evs": [
+                {
+                    "hp": "180",
+                    "def": "252",
+                    "spe": "76"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "flamethrower",
+                    "fiery dance",
+                    "overheat",
+                    "heat wave"
+                ],
+                [
+                    "whirlwind"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry",
+                "sitrus berry",
+                "life orb",
+                "focus sash"
+            ],
+            "ability": [
+                "flame body"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest",
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "flamethrower",
+                    "fiery dance",
+                    "overheat",
+                    "heat wave"
+                ],
+                [
+                    "whirlwind",
+                    "giga drain",
+                    "bug buzz"
+                ]
+            ]
+        }
+    ],
+    "ferrothorn": [
+        {
+            "item": [
+                "leftovers",
+                "rocky helmet",
+                "lum berry"
+            ],
+            "ability": [
+                "iron barbs"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "108",
+                    "def": "68",
+                    "spd": "76"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "leech seed"
+                ],
+                [
+                    "power whip"
+                ],
+                [
+                    "gyro ball"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "leftovers",
+                "rocky helmet",
+                "lum berry"
+            ],
+            "ability": [
+                "iron barbs"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "4",
+                    "spd": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "leech seed"
+                ],
+                [
+                    "power whip"
+                ],
+                [
+                    "gyro ball"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "leftovers",
+                "rocky helmet",
+                "lum berry"
+            ],
+            "ability": [
+                "iron barbs"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "atk": "244",
+                    "spd": "20"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "relaxed"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "leech seed"
+                ],
+                [
+                    "power whip"
+                ],
+                [
+                    "gyro ball"
+                ]
+            ]
+        }
+    ],
+    "landorustherian": [
+        {
+            "item": [
+                "assault vest",
+                "choice scarf"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "earthquake"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "superpower"
+                ],
+                [
+                    "u-turn"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "choice band"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "earthquake"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "u-turn"
+                ],
+                [
+                    "explosion"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "earthquake"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "u-turn",
+                    "superpower",
+                    "knock off"
+                ]
+            ]
+        }
+    ],
+    "togekiss": [
+        {
+            "item": [
+                "sitrus berry",
+                "safety goggles",
+                "rocky helmet"
+            ],
+            "ability": [
+                "serene grace"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "116",
+                    "spa": "4",
+                    "spd": "116",
+                    "spe": "20"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "calm"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "flamethrower",
+                    "encore"
+                ],
+                [
+                    "air slash"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "follow me"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry",
+                "safety goggles",
+                "rocky helmet"
+            ],
+            "ability": [
+                "serene grace"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "164",
+                    "spa": "4",
+                    "spd": "28",
+                    "spe": "60"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "bold"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "flamethrower",
+                    "encore"
+                ],
+                [
+                    "air slash"
+                ],
+                [
+                    "dazzling gleam"
+                ],
+                [
+                    "follow me"
+                ]
+            ]
+        }
+    ],
+    "dialga": [
+        {
+            "item": [
+                "choice scarf"
+            ],
+            "ability": [
+                "pressure"
+            ],
+            "evs": [
+                {
+                    "hp": "92",
+                    "def": "108",
+                    "spa": "116",
+                    "spd": "4",
+                    "spe": "188"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "flash cannon"
+                ],
+                [
+                    "dragon pulse",
+                    "draco meteor"
+                ],
+                [
+                    "flamethrower"
+                ],
+                [
+                    "trick room",
+                    "earth power"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry",
+                "lum berry"
+            ],
+            "ability": [
+                "pressure",
+                "telepathy"
+            ],
+            "evs": [
+                {
+                    "hp": "228",
+                    "def": "92",
+                    "spa": "76",
+                    "spd": "108",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "trick room"
+                ],
+                [
+                    "dragon pulse"
+                ],
+                [
+                    "thunderbolt",
+                    "flamethrower",
+                    "flash cannon"
+                ]
+            ]
+        }
+    ],
+    "arcanine": [
+        {
+            "item": [
+                "life orb",
+                "lum berry",
+                "sitrus berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "extreme speed"
+                ],
+                [
+                    "flare blitz"
+                ],
+                [
+                    "safeguard",
+                    "roar"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "leftovers",
+                "lum berry",
+                "sitrus berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "4",
+                    "spd": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "extreme speed"
+                ],
+                [
+                    "flare blitz"
+                ],
+                [
+                    "safeguard",
+                    "roar"
+                ]
+            ]
+        }
+    ],
+    "meowstic": [
+        {
+            "item": [
+                "chesto berry",
+                "sitrus berry",
+                "mental herb"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "236",
+                    "def": "20",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "yawn"
+                ],
+                [
+                    "quick guard"
+                ],
+                [
+                    "safeguard",
+                    "reflect"
+                ],
+                [
+                    "light screen",
+                    "thunder wave",
+                    "psychic"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "chesto berry",
+                "sitrus berry",
+                "mental herb"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "236",
+                    "def": "20",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "yawn"
+                ],
+                [
+                    "safeguard",
+                    "light screen"
+                ],
+                [
+                    "quick guard",
+                    "reflect"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        }
+    ],
+    "bisharp": [
+        {
+            "item": [
+                "focus sash",
+                "life orb"
+            ],
+            "ability": [
+                "defiant"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "iron head"
+                ],
+                [
+                    "sucker punch"
+                ],
+                [
+                    "knock off"
+                ]
+            ]
+        }
+    ],
+    "yveltal": [
+        {
+            "item": [
+                "life orb",
+                "black glasses"
+            ],
+            "ability": [
+                "dark aura"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "sucker punch"
+                ],
+                [
+                    "knock off",
+                    "tailwind"
+                ],
+                [
+                    "foul play"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "life orb",
+                "black glasses"
+            ],
+            "ability": [
+                "dark aura"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "def": "4",
+                    "spa": "244",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "foul play"
+                ],
+                [
+                    "snarl",
+                    "oblivion wing",
+                    "tailwind"
+                ],
+                [
+                    "dark pulse"
+                ]
+            ]
+        }
+    ],
+    "terrakion": [
+        {
+            "item": [
+                "lum berry",
+                "focus sash"
+            ],
+            "ability": [
+                "justified"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "close combat"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "double kick",
+                    "quick guard",
+                    "taunt",
+                    "poison jab"
+                ]
+            ]
+        }
+    ],
+    "manectric": [
+        {
+            "item": [
+                "manectite"
+            ],
+            "ability": [
+                "lightningrod"
+            ],
+            "evs": [
+                {
+                    "hp": "236",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "volt switch"
+                ],
+                [
+                    "overheat"
+                ],
+                [
+                    "snarl"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "manectite"
+            ],
+            "ability": [
+                "lightningrod"
+            ],
+            "evs": [
+                {
+                    "hp": "236",
+                    "def": "8",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "def": "30"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "volt switch"
+                ],
+                [
+                    "overheat"
+                ],
+                [
+                    "hidden power ice"
+                ]
+            ]
+        }
+    ],
+    "amoonguss": [
+        {
+            "item": [
+                "mental herb",
+                "chesto berry",
+                "rocky helmet",
+                "occa berry",
+                "eject button",
+                "coba berry"
+            ],
+            "ability": [
+                "regenerator"
+            ],
+            "evs": [
+                {
+                    "hp": "236",
+                    "def": "204",
+                    "spd": "60"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "relaxed"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "grass knot",
+                    "giga drain",
+                    "clear smog"
+                ],
+                [
+                    "spore"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "mental herb",
+                "chesto berry",
+                "rocky helmet",
+                "occa berry",
+                "eject button",
+                "coba berry"
+            ],
+            "ability": [
+                "regenerator"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "def": "60",
+                    "spd": "204"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "rage powder"
+                ],
+                [
+                    "grass knot",
+                    "giga drain",
+                    "clear smog"
+                ],
+                [
+                    "spore"
+                ]
+            ]
+        }
+    ],
+    "aegislash": [
+        {
+            "item": [
+                "leftovers",
+                "weakness policy",
+                "spooky plate",
+                "focus sash",
+                "life orb"
+            ],
+            "ability": [
+                "stance change"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "4",
+                    "spa": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "quiet"
+            ],
+            "moves": [
+                [
+                    "king's shield"
+                ],
+                [
+                    "shadow sneak",
+                    "substitute",
+                    "wide guard"
+                ],
+                [
+                    "shadow ball"
+                ],
+                [
+                    "flash cannon",
+                    "iron head",
+                    "gyro ball"
+                ]
+            ]
+        }
+    ],
+    "scrafty": [
+        {
+            "item": [
+                "lum berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "196",
+                    "def": "28",
+                    "spd": "20",
+                    "spe": "12"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "knock off"
+                ],
+                [
+                    "low kick"
+                ],
+                [
+                    "quick guard"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "196",
+                    "def": "28",
+                    "spd": "20",
+                    "spe": "12"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "knock off"
+                ],
+                [
+                    "low kick"
+                ],
+                [
+                    "quick guard"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        }
+    ],
+    "mawile": [
+        {
+            "item": [
+                "mawilite"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "252",
+                    "spd": "4"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "brave"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "sucker punch"
+                ],
+                [
+                    "play rough"
+                ],
+                [
+                    "iron head",
+                    "knock off",
+                    "fire fang"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "mawilite"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "188",
+                    "atk": "236",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "76"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "sucker punch"
+                ],
+                [
+                    "play rough"
+                ],
+                [
+                    "iron head",
+                    "knock off",
+                    "fire fang"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "mawilite"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "52",
+                    "atk": "108",
+                    "def": "52",
+                    "spd": "52",
+                    "spe": "244"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "sucker punch"
+                ],
+                [
+                    "play rough"
+                ],
+                [
+                    "iron head",
+                    "knock off",
+                    "fire fang"
+                ]
+            ]
+        }
+    ],
+    "gyarados": [
+        {
+            "item": [
+                "sitrus berry",
+                "lum berry",
+                "chesto berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "204",
+                    "atk": "108",
+                    "def": "100",
+                    "spd": "4",
+                    "spe": "92"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "roar"
+                ],
+                [
+                    "thunder wave"
+                ],
+                [
+                    "icy wind"
+                ],
+                [
+                    "waterfall"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry",
+                "lum berry",
+                "chesto berry"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "244",
+                    "atk": "68",
+                    "def": "140",
+                    "spd": "52",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "roar"
+                ],
+                [
+                    "thunder wave"
+                ],
+                [
+                    "icy wind"
+                ],
+                [
+                    "waterfall"
+                ]
+            ]
+        }
+    ],
+    "infernape": [
+        {
+            "item": [
+                "life orb",
+                "focus sash"
+            ],
+            "ability": [
+                "blaze"
+            ],
+            "evs": [
+                {
+                    "atk": "252",
+                    "spa": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "naive"
+            ],
+            "moves": [
+                [
+                    "close combat"
+                ],
+                [
+                    "overheat"
+                ],
+                [
+                    "quick guard"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "life orb",
+                "focus sash"
+            ],
+            "ability": [
+                "blaze"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "244",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "close combat"
+                ],
+                [
+                    "flare blitz"
+                ],
+                [
+                    "quick guard"
+                ],
+                [
+                    "fake out"
+                ]
+            ]
+        }
+    ],
+    "hooh": [
+        {
+            "item": [
+                "sitrus berry",
+                "leftovers"
+            ],
+            "ability": [
+                "pressure"
+            ],
+            "evs": [
+                {
+                    "hp": "92",
+                    "atk": "212",
+                    "def": "156",
+                    "spd": "44",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "protect",
+                    "roost"
+                ],
+                [
+                    "tailwind",
+                    "substitute"
+                ],
+                [
+                    "sacred fire"
+                ],
+                [
+                    "brave bird"
+                ]
+            ]
+        }
+    ],
+    "sylveon": [
+        {
+            "item": [
+                "pixie plate"
+            ],
+            "ability": [
+                "pixilate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "236",
+                    "spa": "4",
+                    "spd": "4",
+                    "spe": "12"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "hyper voice"
+                ],
+                [
+                    "helping hand"
+                ],
+                [
+                    "quick attack"
+                ]
+            ]
+        }
+    ],
+    "shedinja": [
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "wonder guard"
+            ],
+            "evs": [
+                {
+                    "atk": "252",
+                    "spa": "4",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "hp": "0",
+                    "def": "0",
+                    "spd": "0"
+                }
+            ],
+            "nature": [
+                "adamant",
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "protect"
+                ],
+                [
+                    "phantom force"
+                ],
+                [
+                    "shadow sneak"
+                ],
+                [
+                    "toxic",
+                    "will-o-wisp"
+                ]
+            ]
+        }
+    ]
+}

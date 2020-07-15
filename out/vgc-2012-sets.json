@@ -1,0 +1,1058 @@
+{
+    "abomasnow": [
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "snow warning"
+            ],
+            "evs": [
+                {
+                    "hp": "140",
+                    "atk": "116",
+                    "spa": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "quiet"
+            ],
+            "moves": [
+                [
+                    "blizzard"
+                ],
+                [
+                    "giga drain"
+                ],
+                [
+                    "ice shard"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "gyarados": [
+        {
+            "item": [
+                "choice specs"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "60",
+                    "def": "204",
+                    "spa": "244"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "surf"
+                ],
+                [
+                    "fire blast"
+                ],
+                [
+                    "blizzard"
+                ],
+                [
+                    "thunder"
+                ]
+            ]
+        }
+    ],
+    "gastrodoneast": [
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "storm drain"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "188",
+                    "spa": "28",
+                    "spd": "36",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "calm"
+            ],
+            "moves": [
+                [
+                    "earth power"
+                ],
+                [
+                    "muddy water"
+                ],
+                [
+                    "protect"
+                ],
+                [
+                    "recover"
+                ]
+            ]
+        }
+    ],
+    "scizor": [
+        {
+            "item": [
+                "occa berry"
+            ],
+            "ability": [
+                "technician"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "252",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "bullet punch"
+                ],
+                [
+                    "bug bite"
+                ],
+                [
+                    "protect"
+                ],
+                [
+                    "feint"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "steel gem"
+            ],
+            "ability": [
+                "technician"
+            ],
+            "evs": [
+                {
+                    "hp": "172",
+                    "atk": "252",
+                    "spe": "84"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "bullet punch"
+                ],
+                [
+                    "bug bite"
+                ],
+                [
+                    "swords dance"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "rhyperior": [
+        {
+            "item": [
+                "babiri berry"
+            ],
+            "ability": [
+                "lightningrod"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "252",
+                    "spd": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "earthquake"
+                ],
+                [
+                    "protect"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "megahorn"
+                ]
+            ]
+        }
+    ],
+    "cresselia": [
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "212",
+                    "def": "60",
+                    "spa": "160",
+                    "spd": "76"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "helping hand"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "swagger"
+                ],
+                [
+                    "trick room"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "fire gem"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "220",
+                    "def": "76",
+                    "spa": "136",
+                    "spd": "76"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "2",
+                    "spa": "30",
+                    "spe": "30"
+                }
+            ],
+            "nature": [
+                "calm"
+            ],
+            "moves": [
+                [
+                    "hidden power fire"
+                ],
+                [
+                    "helping hand"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "psyshock"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "choice specs"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "132",
+                    "def": "4",
+                    "spa": "248",
+                    "spd": "4",
+                    "spe": "120"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "2",
+                    "spa": "30",
+                    "spe": "30"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "psyshock"
+                ],
+                [
+                    "icy wind"
+                ],
+                [
+                    "hidden power fire"
+                ],
+                [
+                    "trick"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "220",
+                    "def": "108",
+                    "spa": "180"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0",
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "sassy"
+            ],
+            "moves": [
+                [
+                    "ice beam"
+                ],
+                [
+                    "psyshock"
+                ],
+                [
+                    "swagger"
+                ],
+                [
+                    "trick room"
+                ]
+            ]
+        }
+    ],
+    "metagross": [
+        {
+            "item": [
+                "choice band"
+            ],
+            "ability": [
+                "clear body"
+            ],
+            "evs": [
+                {
+                    "hp": "116",
+                    "atk": "252",
+                    "def": "4",
+                    "spd": "4",
+                    "spe": "132"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "ice punch"
+                ],
+                [
+                    "earthquake"
+                ],
+                [
+                    "meteor mash"
+                ],
+                [
+                    "bullet punch"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry"
+            ],
+            "ability": [
+                "clear body"
+            ],
+            "evs": [
+                {
+                    "hp": "220",
+                    "atk": "140",
+                    "def": "20",
+                    "spd": "124"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "15"
+                }
+            ],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "meteor mash"
+                ],
+                [
+                    "zen headbutt"
+                ],
+                [
+                    "earthquake"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "lum berry"
+            ],
+            "ability": [
+                "clear body"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "116",
+                    "def": "4",
+                    "spd": "136"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "14"
+                }
+            ],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "meteor mash"
+                ],
+                [
+                    "zen headbutt"
+                ],
+                [
+                    "earthquake"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "hydreigon": [
+        {
+            "item": [
+                "choice scarf"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "164",
+                    "spa": "252",
+                    "spe": "92"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "draco meteor"
+                ],
+                [
+                    "dark pulse"
+                ],
+                [
+                    "fire blast"
+                ],
+                [
+                    "dragon pulse"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "dragon gem"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "60",
+                    "spa": "252",
+                    "spe": "196"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "draco meteor"
+                ],
+                [
+                    "dark pulse"
+                ],
+                [
+                    "flamethrower"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "hitmontop": [
+        {
+            "item": [
+                "fighting gem"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "244",
+                    "def": "12"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "careful"
+            ],
+            "moves": [
+                [
+                    "close combat"
+                ],
+                [
+                    "fake out"
+                ],
+                [
+                    "feint"
+                ],
+                [
+                    "sucker punch"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "fighting gem"
+            ],
+            "ability": [
+                "intimidate"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "252",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "fake out"
+                ],
+                [
+                    "close combat"
+                ],
+                [
+                    "detect"
+                ],
+                [
+                    "stone edge"
+                ]
+            ]
+        }
+    ],
+    "politoed": [
+        {
+            "item": [
+                "water gem"
+            ],
+            "ability": [
+                "drizzle"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "def": "4",
+                    "spa": "144",
+                    "spd": "108"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "2",
+                    "spa": "30",
+                    "spe": "3"
+                }
+            ],
+            "nature": [
+                "quiet"
+            ],
+            "moves": [
+                [
+                    "scald"
+                ],
+                [
+                    "ice beam"
+                ],
+                [
+                    "hidden power [grass]"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "kingdra": [
+        {
+            "item": [
+                "life orb"
+            ],
+            "ability": [
+                "swift swim"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "muddy water"
+                ],
+                [
+                    "draco meteor"
+                ],
+                [
+                    "substitute"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "thundurus": [
+        {
+            "item": [
+                "flying gem"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "40",
+                    "def": "48",
+                    "spa": "128",
+                    "spd": "104",
+                    "spe": "188"
+                }
+            ],
+            "ivs": [
+                {
+                    "hp": "30",
+                    "atk": "2",
+                    "def": "30",
+                    "spa": "30",
+                    "spd": "30"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "thunderbolt"
+                ],
+                [
+                    "hidden power flying"
+                ],
+                [
+                    "thunder wave"
+                ],
+                [
+                    "substitute"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "sitrus berry"
+            ],
+            "ability": [
+                "prankster"
+            ],
+            "evs": [
+                {
+                    "hp": "196",
+                    "spa": "60",
+                    "spd": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "2",
+                    "def": "30"
+                }
+            ],
+            "nature": [
+                "calm"
+            ],
+            "moves": [
+                [
+                    "thunderbolt"
+                ],
+                [
+                    "thunder wave"
+                ],
+                [
+                    "taunt"
+                ],
+                [
+                    "hidden power ice"
+                ]
+            ]
+        }
+    ],
+    "latios": [
+        {
+            "item": [
+                "dragon gem"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "def": "4",
+                    "spa": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "0"
+                }
+            ],
+            "nature": [
+                "timid"
+            ],
+            "moves": [
+                [
+                    "draco meteor"
+                ],
+                [
+                    "energy ball"
+                ],
+                [
+                    "psyshock"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "tyranitar": [
+        {
+            "item": [
+                "focus sash"
+            ],
+            "ability": [
+                "sand stream"
+            ],
+            "evs": [
+                {
+                    "hp": "44",
+                    "atk": "252",
+                    "spe": "212"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "low kick"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "avalanche"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "chople berry"
+            ],
+            "ability": [
+                "sand stream"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "252",
+                    "spe": "4"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "rock slide"
+                ],
+                [
+                    "crunch"
+                ],
+                [
+                    "low kick"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "chople berry"
+            ],
+            "ability": [
+                "sand stream"
+            ],
+            "evs": [
+                {
+                    "hp": "252",
+                    "atk": "124",
+                    "def": "36",
+                    "spd": "96"
+                }
+            ],
+            "ivs": [
+                {
+                    "spe": "0"
+                }
+            ],
+            "nature": [
+                "adamant"
+            ],
+            "moves": [
+                [
+                    "rock slide"
+                ],
+                [
+                    "low kick"
+                ],
+                [
+                    "fire punch"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "garchomp": [
+        {
+            "item": [
+                "yache berry"
+            ],
+            "ability": [
+                "sand veil"
+            ],
+            "evs": [
+                {
+                    "hp": "4",
+                    "atk": "252",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "earthquake"
+                ],
+                [
+                    "rock slide"
+                ],
+                [
+                    "dragon claw"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        },
+        {
+            "item": [
+                "haban berry"
+            ],
+            "ability": [
+                "sand veil"
+            ],
+            "evs": [
+                {
+                    "hp": "36",
+                    "atk": "116",
+                    "def": "4",
+                    "spd": "196",
+                    "spe": "156"
+                }
+            ],
+            "ivs": [],
+            "nature": [
+                "jolly"
+            ],
+            "moves": [
+                [
+                    "dragon claw"
+                ],
+                [
+                    "earthquake"
+                ],
+                [
+                    "substitute"
+                ],
+                [
+                    "protect"
+                ]
+            ]
+        }
+    ],
+    "rotomwash": [
+        {
+            "item": [
+                "choice specs"
+            ],
+            "ability": [
+                "levitate"
+            ],
+            "evs": [
+                {
+                    "hp": "228",
+                    "def": "4",
+                    "spa": "12",
+                    "spd": "12",
+                    "spe": "252"
+                }
+            ],
+            "ivs": [
+                {
+                    "atk": "2",
+                    "spa": "30"
+                }
+            ],
+            "nature": [
+                "modest"
+            ],
+            "moves": [
+                [
+                    "thunderbolt"
+                ],
+                [
+                    "hydro pump"
+                ],
+                [
+                    "hidden power grass"
+                ],
+                [
+                    "thunder"
+                ]
+            ]
+        }
+    ]
+}
