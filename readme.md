@@ -1,5 +1,7 @@
 # Showdown Set to JSON Converter
-## Created by Damon Murdoch (@SirScrubbington)
+## An application for converting showdown sets to json, written in Python.
+### Developed by Damon Murdoch ([@SirScrubbington](https://twitter.com/SirScrubbington)).
+
 ### Summary
 This Python application was developed for the 
 simplification of creating the .json files required
@@ -7,6 +9,7 @@ for Pokemon Showdown! Server randomised formats. This
 application converts all of the (valid) files in the 
 /in directory to .json files and saves them in the /out
 directory by default. 
+
 ### Expected Format
 The Expected Format for input sets is as follows:
 
@@ -30,16 +33,6 @@ feel free to push changes to this repository
 which add new sets you would like to see in 
 the server and I will review them :) 
 
-#### VGC Factory Server
-The VGC Factory Server is located [here](https://brisbanebuzzwoles.psim.us).
-
-### Future Features
-In future, I would like to make 
-allowances for the following tags:
-Shiny: True/False
-Level: 1-100
-Any other relevant tags which may be applied.
-
 ### Credits
 VGC Factory Sets have been sourced, in no particular order from:
 * Smogon Usage Stats ([link](https://smogon.com/stats))
@@ -48,7 +41,21 @@ VGC Factory Sets have been sourced, in no particular order from:
 * Trainer Tower Sample Sets / Team Reports ([link](https://trainertower.com))
 * My Personal Blog ([link](https://sir-scrubbington.hatenablog.com))
 
-### Contact Me
-If you want to know more about the project,
-or to contact with any bugs / suggestions
-please contact me on twitter [here](https://twitter.com/SirScrubbington) :)
+## Future Changes
+A list of future planned fixes / improvements are listed below.
+
+### Change Table
+
+| Change Description     | Priority |
+| ---------------------- | -------- |
+| Allow Shiny True/False | High     |
+| Allow Level 1-100      | High     |
+
+### Problems / Improvements
+If you have any suggested improvements for this project or you encounter any issues, please feel free to open an issue [here](https://github.com/damon-murdoch/set-scheduler/issues) or send me a message on twitter detailing the issue and how it can be replicated.
+
+## Sponsor this Project
+If you'd like to support this project and other future projects, 
+please feel free to use the paypal domation link below.
+
+https://www.paypal.com/paypalme/sirsc
